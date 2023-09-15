@@ -1,0 +1,7 @@
+gps_test.c:13:6:test_read_lat_long	4
+gps_test.c:33:6:test_bearing_north	5
+gps_test.c:51:6:test_bearing_east	4
+gps_test.c:72:6:test_bearing_south	3
+gps_test.c:84:6:test_bearing_west	3
+gps_test.c:96:6:test_variable_timestep	4
+gps_test.c:114:6:test_calculate_mph	2

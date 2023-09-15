@@ -1,0 +1,7 @@
+../Core/Src/gps_test.c:13:6:test_read_lat_long	32	static
+../Core/Src/gps_test.c:33:6:test_bearing_north	456	static
+../Core/Src/gps_test.c:51:6:test_bearing_east	440	static
+../Core/Src/gps_test.c:72:6:test_bearing_south	432	static
+../Core/Src/gps_test.c:84:6:test_bearing_west	432	static
+../Core/Src/gps_test.c:96:6:test_variable_timestep	456	static
+../Core/Src/gps_test.c:114:6:test_calculate_mph	16	static

@@ -1,0 +1,5 @@
+kalman.c:10:14:alloc_filter	1
+kalman.c:52:6:free_filter	1
+kalman.c:74:6:update	1
+kalman.c:79:6:predict	1
+kalman.c:95:6:estimate	1

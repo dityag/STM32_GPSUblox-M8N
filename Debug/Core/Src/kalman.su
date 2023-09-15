@@ -1,0 +1,5 @@
+../Core/Src/kalman.c:10:14:alloc_filter	248	static
+../Core/Src/kalman.c:52:6:free_filter	8	static
+../Core/Src/kalman.c:74:6:update	200	static
+../Core/Src/kalman.c:79:6:predict	40	static
+../Core/Src/kalman.c:95:6:estimate	40	static

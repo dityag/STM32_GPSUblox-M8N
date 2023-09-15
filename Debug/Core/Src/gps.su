@@ -1,0 +1,9 @@
+../Core/Src/gps.c:15:14:alloc_filter_velocity2d	456	static
+../Core/Src/gps.c:69:6:set_seconds_per_timestep	32	static
+../Core/Src/gps.c:78:6:update_velocity2d	232	static
+../Core/Src/gps.c:85:5:read_lat_long	32	static
+../Core/Src/gps.c:103:6:get_lat_long	8	static
+../Core/Src/gps.c:109:6:get_velocity	8	static
+../Core/Src/gps.c:117:8:get_bearing	296	static
+../Core/Src/gps.c:147:8:calculate_mph	128	static
+../Core/Src/gps.c:175:8:get_mph	240	static
